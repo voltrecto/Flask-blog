@@ -1,3 +1,3 @@
 # Flask-blog
-Simple blog created learning Flask
-URL: https://flask-blog-production.up.railway.app/
+<p>Simple blog created learning Flask.</p>
+<p>URL: https://flask-blog-production.up.railway.app/</p>
